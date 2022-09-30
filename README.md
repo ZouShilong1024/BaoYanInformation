@@ -58,7 +58,9 @@
 - 简历模板(见`Resume Templates`文件夹)
 - 推荐信模板（见`Recommendations`文件夹）
 - 个人陈述模板（见`Personal Statement`文件夹）
-## 4.5 特别鸣谢
+## 4.5 保研大礼包
+[CSDN链接](https://download.csdn.net/download/ConstineWhy/86729168)
+## 4.6 特别鸣谢
 > 大连海事大学德尔塔学社全体成员
 
 > 大连海事大学计算机科学与技术专业胡聿鑫同学
