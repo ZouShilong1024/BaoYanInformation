@@ -137,6 +137,7 @@
 
 
 # 四、推荐信/联系导师材料
+[参考链接](https://github.com/yuezih/King-of-Pigeon/)
 ## 4.1 推荐信请求
 亲爱的朱老师，
 
