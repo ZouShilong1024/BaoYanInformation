@@ -207,7 +207,7 @@
 - 个人陈述模板（见`Personal Statement`文件夹）
 ## 5.5 保研大礼包
 [CSDN链接](https://download.csdn.net/download/ConstineWhy/86729168)
-## 5.6 关于保研的讲座，一直播平台关注"DMU信悦团"浏览2022-10-01期
+## 5.6 关于保研的讲座，通过方式二链接直接观看
 方式一：**一直播** 关注 **`DMU信悦团`**，ID：1336196511。2022-10-01期
 
 方式二：[推免与复试经验分享](https://www.yizhibo.com/l/hChfXKwd00DQz_o_.html)
