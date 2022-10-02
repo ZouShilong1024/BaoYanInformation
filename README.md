@@ -87,8 +87,8 @@
 ### 3.1.3 **材料整理**：
 
 这里给大家提供了两个excel表格协助整理院校入营及面试的相关信息，可以下载上方的文件：
-- 意向院校整理.xlsx
-- 进度安排表.xlsX
+- 意向院校整理.xlsx[点击下载](https://github.com/ZouShilong1024/BaoYanInformation/blob/main/%E6%84%8F%E5%90%91%E9%99%A2%E6%A0%A1%E6%95%B4%E7%90%86.xlsx)
+- 进度安排表.xlsX[点击下载](https://github.com/ZouShilong1024/BaoYanInformation/blob/main/%E8%BF%9B%E5%BA%A6%E5%AE%89%E6%8E%92%E8%A1%A8.xlsx)
 
 ## 3.2 夏令营（6月份-7月份末）
 - 时间：6月份-7月份末
@@ -202,9 +202,9 @@
 ## 5.3 关于计算机保研，欢迎大家加入QQ群：计算机类德尔塔保研分享会（群号：656084982）
 有任何关于保研的问题都可以在群内提问
 ## 5.4 相关资料的获取
-- 简历模板(见`Resume Templates`文件夹)
-- 推荐信模板（见`Recommendations`文件夹）
-- 个人陈述模板（见`Personal Statement`文件夹）
+- 简历模板(见`Resume Templates`文件夹)[点击下载](https://github.com/ZouShilong1024/BaoYanInformation/tree/main/Resume%20Templates)
+- 推荐信模板（见`Recommendations`文件夹）[点击下载](https://github.com/ZouShilong1024/BaoYanInformation/tree/main/Recommendations)
+- 个人陈述模板（见`Personal Statement`文件夹）[点击下载](https://github.com/ZouShilong1024/BaoYanInformation/tree/main/Personal%20Statement)
 ## 5.5 保研大礼包
 [CSDN链接](https://download.csdn.net/download/ConstineWhy/86729168)
 ## 5.6 关于保研的讲座，通过方式二链接直接观看
